@@ -1,0 +1,37 @@
+- Mushrooms emit over 50 different electrical pulses to communicate with each other
+- Many animals also emit these pulses
+- 18th century: the beginning of developments in electricity
+- Galvani experimenting with an electrical charge in frog legs
+- In the 19th century, the corpses of lower-class citizens are used to practice dissections in medical schools
+	- Forester, who has been found guilty of a crime he did not commit is executed
+	- A few hours later, Galvani's nephew, who has the body, does a public experiment that shows the body moving, even after death
+	- Experiments like this were popular at the time, they were seen as potential to bring people back to life
+	- Frankenstein comes out in 1818, a sort of response to the fears and awe of new technologies at the time
+- Back to the ancient Greeks
+	- Rubbing stuff together to create static charge and attracting stuff
+	- The word electricity is derived from the Greek word for amber
+- All through history, there seems to be a connection between life and electricity, whether people at the time know it or not
+- Leyden jars: 1746
+	- An attempt to capture static electricity, using a very complicated system
+	- Sort of works, and manages to produce a shock
+- In the same year, a test is done to see how fast electricity travels, by sending a shock through a circle of monks holding metal rods
+	- The conclusion is made that electricity travels almost instantaneously 
+- Ben Franklin
+	- Key kite
+	- But also, realizes you can direct electricity using a metal cone
+- Back to Italy and Galvani
+	- A competitor of Glavani disagrees with his methods, believing his results have been due to the reactions of metals and moisture
+	- This competitor realizes he can arrange wet, dry, wet, dry metals to transfer electricity, this is an early battery
+- In the 19th century, the work of academics and research becomes much more important and profitable
+- Hans Christen Orsted works out that electrical current can deflect a compass needle and that electrical currents let off a circular magnetic field
+- Michael Faraday works out that you can induce electricity using a magnet
+- Joseph Henry creates many electrical inventions, such as a method to separate good-quality iron ore from the rest
+	- Realizes that as a wire goes on, currently gets weaker, the monk experiment was essentially only instant because the monks were giant wet batteries
+- Similar to how the Romans collapsed distance with their roads, so has Henry by showing how electricity can be sent over a far distance
+- Now that a way to send electricity a long way is made, the idea of telegraphs comes quite quickly
+	- But a giant wire alone will not suffice
+- Around the same time, the first steam-powered railroads begin to open in the 1830s
+	- A way to coordinate the trains to ensure there isn't an accident is needed
+	- The telegraph offers a way to send signals, which travel faster than the trains themself
+- All the pieces are put in place for the telegram, the first internet
+- Remember all the technologies and social structures that had to happen at the same time as all of this, in order to allow it to happen
