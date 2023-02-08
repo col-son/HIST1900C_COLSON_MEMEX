@@ -1,11 +1,5 @@
-# Obsidian Notes
+Colson's Memex Index
 
-Publish your public notes with MkDocs
 
-## Hello World!
+> protip. You can find your note files on your machine by right-clicking a note in the left hand pane and selecting 'reveal in finder'. When we get to the point that you are putting materials online, you will need to be able to find this actual location on your machine.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
